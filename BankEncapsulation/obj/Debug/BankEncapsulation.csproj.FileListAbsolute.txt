@@ -1,0 +1,7 @@
+C:\Users\amcel\repos\BankEncapsulation\bin\Debug\BankEncapsulation.exe.config
+C:\Users\amcel\repos\BankEncapsulation\bin\Debug\BankEncapsulation.exe
+C:\Users\amcel\repos\BankEncapsulation\bin\Debug\BankEncapsulation.pdb
+C:\Users\amcel\repos\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\amcel\repos\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\amcel\repos\BankEncapsulation\obj\Debug\BankEncapsulation.exe
+C:\Users\amcel\repos\BankEncapsulation\obj\Debug\BankEncapsulation.pdb
