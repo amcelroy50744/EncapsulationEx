@@ -1,0 +1,7 @@
+C:\Users\amcel\repos\StaticExercise\bin\Debug\StaticExercise.exe.config
+C:\Users\amcel\repos\StaticExercise\bin\Debug\StaticExercise.exe
+C:\Users\amcel\repos\StaticExercise\bin\Debug\StaticExercise.pdb
+C:\Users\amcel\repos\StaticExercise\obj\Debug\StaticExercise.csproj.AssemblyReference.cache
+C:\Users\amcel\repos\StaticExercise\obj\Debug\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\amcel\repos\StaticExercise\obj\Debug\StaticExercise.exe
+C:\Users\amcel\repos\StaticExercise\obj\Debug\StaticExercise.pdb
